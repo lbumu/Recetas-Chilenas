@@ -5,7 +5,7 @@ image: /assets/img/pollo-escabechado.jpg
 ---
 
 # Pollo Escabechado
-
+![foto](/assets/pollo-escabechado.png)
 
 *(3 a 4 personas / Tiempo de preparación aprox. 50 min)*
 
