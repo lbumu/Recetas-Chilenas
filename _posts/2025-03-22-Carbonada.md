@@ -1,1 +1,1 @@
-![Carbonada](/assets/img/Carbonada.JPG "CARBONADA")
+![Carbonada](assets/img/Carbonada.JPG "CARBONADA")
