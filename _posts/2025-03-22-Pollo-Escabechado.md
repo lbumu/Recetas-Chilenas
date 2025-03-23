@@ -7,9 +7,6 @@ date: 2025-03-22
 
 ![Pollo Escabechado]({{ site.baseurl }}/assets/pollo-escabechado.jpg)
 
-# Carbonada
-![Carbonada Chilena]({{ "/assets/Carbonada.jpg" | relative_url }})
-
 
 *(3 a 4 personas / Tiempo de preparación aprox. 50 min)*
 
