@@ -10,7 +10,6 @@ date: 2025-03-22
 
 # Carbonada
 ![Carbonada Chilena]({{ "/assets/Carbonada.jpg" | relative_url }})
-![Carbonada](/assets/Carbonada.jpg)
 
 
 *(3 a 4 personas / Tiempo de preparación aprox. 50 min)*
