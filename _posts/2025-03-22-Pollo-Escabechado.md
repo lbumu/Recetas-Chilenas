@@ -4,8 +4,10 @@ date: 2025-03-22
 image: /assets/img/pollo-escabechado.jpg
 ---
 
-# Pollo Escabechado
-![foto](/assets/pollo-escabechado.png)
+#Pollo Escabechado
+
+![Pollo Escabechado]({{ "/assets/pollo-escabechado.jpg" | relative_url }})
+
 
 *(3 a 4 personas / Tiempo de preparación aprox. 50 min)*
 
