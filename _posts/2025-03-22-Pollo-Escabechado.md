@@ -5,7 +5,7 @@ date: 2025-03-22
 
 # Pollo Escabechado
 
-![Pollo Escabechado]({{ "/assets/pollo-escabechado.jpg" | relative_url }})
+![Pollo Escabechado]({{ site.baseurl }}/assets/pollo-escabechado.jpg)
 
 # Carbonada
 ![Carbonada Chilena]({{ "/assets/Carbonada.jpg" | relative_url }})
