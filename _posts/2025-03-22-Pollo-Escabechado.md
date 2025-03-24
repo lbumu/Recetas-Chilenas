@@ -1,11 +1,11 @@
 ---
-title: "Pollo-Escabechado"
-date: 2025-03-22
+layout: post
+title:  "Pollo Escabechado"
 ---
 
 # Pollo Escabechado
-
-![pollo](/assets/pollo.jpg)
+![Pollo Escabechado]({{ "/assets/pollo.jpg" | relative_url }})
+![Pollo Escabechado](/assets/pollo.jpg)
 
 
 *(3 a 4 personas / Tiempo de preparación aprox. 50 min)*
